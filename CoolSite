@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="et" dir="ltr" class="js desktop landscape">
+<head>
+<title>CoolSite</title>
+<style>
+.row {text-align: center;}
+.pic {text-align: center;}
+body {font-size: 1.2rem;}
+</style>
+</head>
+<body>
+<div class="text">
+	<div class="row">
+		<h1>213105IAIB</h1>
+		<p>Only for educational purposes</p>
+	</div>
+</div>
+<div class="pic">
+	<a href="https://en.wikipedia.org/wiki/Nintendo_DSi">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Nintendo-DSi-Bl-Open.jpg" width="500" height="600">
+	</a>
+</div>
+<div class="table">
+	<table>
+  	  <tr>
+    	    <th>Story by Lauri Laud</th>
+  	  </tr>
+  	  <tr>
+    	    <td>Ühel õhtul läks Jaan poodi, et osta endale uus nintendo DSi. Poodi jõudes sai Jaan aru, et aasta polnud enam 2009. Ta suundus nüüd lähima müüja juurde ning küsis temalt, milline on hetkel kõige populaarsem kondsool. Tema üllatuseks oli müüjaks Henry Cavill, kes ohatas ja ütles:"**** konsoolid, PC on õige valik" ning ta asetas ühe korraliku masina Jaani sülle. Nii saigi Jaan omale CyberPoweri PC. 
+	    </td>
+  	  </tr>
+	</table>
+</div>
+
+</body>
+</html>
